@@ -7,12 +7,12 @@ A simple and efficient **To-Do List** application built using **React + Tailwind
 ## 🌟 Features
 
 ✔ **Add Tasks** – Quickly add new tasks to your list.  
-💡**Responsive** - View in any device with full functionalites 
 ✏ **Edit Tasks** – Modify existing tasks with ease.  
 ❌ **Delete Tasks** – Remove unwanted tasks permanently.  
 🔄 **Save on Reload** – Tasks persist using **Local Storage**.  
 ✅ **Mark as Completed** – Check off tasks when finished.  
 👀 **Show/Hide Completed** – Filter tasks with a single toggle.  
+💡**Responsive** - View in any device with full functionalites.
 
 ---
 
