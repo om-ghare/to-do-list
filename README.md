@@ -1,4 +1,4 @@
-# 📝 To-Do List App 
+# 📝 To-Do List - TASKIFY
 
 A simple and efficient **To-Do List** application built using **React + Tailwind CSS**, featuring **task editing**, **deletion**, **local storage** and an option to **show/hide completed tasks**.
 
